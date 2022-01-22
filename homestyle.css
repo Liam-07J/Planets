@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(40, 102, 102);
+    text-decoration: underline;
+}
+p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px
+}
+th {
+    border:1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+img {
+    border-radius: 25px;
+    margin-left: 450px;
+    margin-top: -220px;
+}
